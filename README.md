@@ -10,6 +10,13 @@
 * 互惠原理
 * 懒惰的系统2
 * 锚定效应
+* 前景理论
+* 权威
+* 社会认同
+* 损失厌恶
+* 稀缺
+* 喜欢一个人
+* 占卜的意义
   
 ## 对于年轻人的决策教育
 
@@ -41,6 +48,11 @@
 #### 文字社群
 
 v2ex： [https://www.v2ex.com/go/psychology](https://www.v2ex.com/go/psychology)
+
 #### 及时聊天社群
 
 电报群: <https://t.me/yongmanjudgement>
+
+#### 联系我
+
+LarryWang ｜ Wechat: wang686ff ｜email: oepnercn@gmail.com
